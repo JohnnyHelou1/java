@@ -13,7 +13,7 @@ public class Main {
         tweet1.setDescription("Bob fet aa lyst ");
         tweet1.setTweetID(0002);
         Tweet tweet2 = new Tweet();
-        tweet2.setDescription("www.xnxx.com ");
+        tweet2.setDescription("wwwgoogle.com ");
         tweet2.setTweetID(0001);
         Tweet tweet3 = new Tweet();
         tweet3.setDescription("Bob gay ");
